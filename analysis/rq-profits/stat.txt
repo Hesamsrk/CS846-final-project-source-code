@@ -1,0 +1,8 @@
+Total number of buyers = 8142
+Total number of sellers = 4358
+Total number of users (both buyers and sellers) = 9831
+Total number of arbitrage users = 2669
+Total percentage of arbitrage users = 27.15%
+Profit: Mean = -12.703013853089649, Median = 278.4578174999999, Min = -118672.6955, Max = 132777.91999999998
+Days Arbitrage: Mean = 148.97498724905142, Median = 18.194137731481483, Min = 0.0010648148148148149, Max = 2048.1440625
+
