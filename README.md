@@ -8,7 +8,13 @@ This repository contains the source code for the paper: `Detecting Potential Fra
 
 ## Content Review
 
-There are three main folders in the root directory: (you can also find the [presentation.pptx](./presentation.pptx) and [proposal.pdf](./proposal.pdf) in the root directory.)
+In the root Directory you can find:
+- [presentation.pptx](./presentation.pptx)
+- [proposal.pdf](./proposal.pdf)
+- [CS846_Project_Report.pdf](./CS846_Project_Report.pdf)
+
+
+There are also three main directories:
 
 ### [/analysis](/analysis/)
 This folder contains all the source code for parsing, filtering, analyzing and visualizing on the analysis (reseatch questions) section.
